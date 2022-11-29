@@ -24,3 +24,6 @@ slower than the refacotred one. We have a run time of 48487.95 seconds vs .02343
 
 # Summary
   
+The advantages of refractoring an code is that you can make the code more organized and efficient (background Module 2 Challenge). making an code more organize can make it more easily read by other users. Also, it can make a code execute faster as we saw in this module challegne some disadvantages of refacotring a code is that it can be a bit messy if we are not fimiliar with the data set or the code can get ruined all together if refactoring is done improperly.
+
+The advantages of the original code is that if some coders are not fimiliar with uses lists or arrays , the original code can be more easily read. However, in the refactored code it used arrays for the codes and this made it execute the code more quickly and it also made it look for easy on the eyes. Some disadvantages of the original code would be it has many layers to the coding, this can make it look messy and hard to read. While, the refactored code looked more organize and tiddy, during the refactoring there are more variables involves , so inputing them in the correct order and spots can be very difficult. 

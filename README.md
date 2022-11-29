@@ -5,7 +5,7 @@ It will look at total daily volume and & total return percentage
 for green stocks companies for the year 2018 to show which stocks had the most success.
 
 Additionally it will look at VBA run scripts of
-an origanl code and a refactored code and the compare the two for which code ran faster.
+an origanl code and a refactored code and the compare the two for which code executed faster.
 
 
 # Results

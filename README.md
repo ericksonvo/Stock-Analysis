@@ -20,7 +20,7 @@ With ENPH having a total return of 81.9% and RUN having a total return of 84%. C
 These companies had the largest negative total return. Judgeing by this data investing in ENPH and RUN would have the most succcess.
 
   The chart above also shows VBA run scripts times of an original code and a refactored code. Comparing the two codes, the original code executed a lot 
-slower than the refacotred one. We have a run time of 48487.95 seconds vs .0234375 seconds. This shows that refactoring a code can have substantial results in executing a code.
+slower than the refacotred one. We have a run time of 48487.95 seconds vs .0234375 seconds. This shows that refactoring a code can have substantial great results in executing a code.
 
 # Summary
   

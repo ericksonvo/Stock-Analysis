@@ -4,6 +4,10 @@ This stock analysis is for multiple green energy companies including DAQO
 It will look at total daily volume and & total return percentage 
 for green stocks for years 2017 and 2018
 
+Additionally it will look at VBA run script of
+an origanl code and a refactored code and the compare the two of which code ran faster
+
+
 # Results
 ### Original
 ![VBA_Challege_2018_Chart](https://user-images.githubusercontent.com/117749494/204617025-f52c89a2-eca6-4a10-abe3-65b2c56db371.PNG)
